@@ -1,0 +1,1 @@
+web: uvicorn student_info:app --reload
